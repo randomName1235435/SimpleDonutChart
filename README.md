@@ -1,3 +1,3 @@
 # SimpleDonutChart
-SimpleDonutChart for WPF
-![(sample.jpg](sample)
+SimpleDonutChart for WPF  
+![sample](sample.jpg)
