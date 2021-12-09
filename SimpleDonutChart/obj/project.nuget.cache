@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i9DsYvGiSmKboVf/5EBVGz1eilBDFhZPcFaRx7ESxuyDPuYP/PMQPGS7Q/+ubvLpJ6arT0bMOw8lVZ2OE/IR5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MBerg\\source\\repos\\randomName1235435\\SimpleDonutChartClone\\SimpleDonutChart\\SimpleDonutChart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MBerg\\.nuget\\packages\\unnoficial.microsoft.expression.drawing\\1.0.0\\unnoficial.microsoft.expression.drawing.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
